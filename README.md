@@ -8,7 +8,7 @@
 * 👯 I’m looking to collaborate on **Data Analytics Related Projects**
 * 📝 I regularly write articles on [https://medium.com/@udaraNalawansa](https://medium.com/@udaraNalawansa) 
 * 📫 How to reach me **udarakavishka13@gmail.com**
-* 
+  
 ---
 
 # 💻 Tech Stack:
