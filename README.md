@@ -40,11 +40,26 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=udaraKavishka&show_icons=true&count_private=true&hide_border=false&theme=dark" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaraKavishka&hide_border=false&layout=compact&theme=dark" align="center" /></div>  
-  
+ 
+ ![Udara's github stats](https://github-stats-alpha.vercel.app/api?username=udaraKavishka&cc=000&tc=fff&ic=fff&bc=000) &nbsp;
+
+
+
+
+
+
+<a href="https://github.com/udaraKavishka/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=udaraKavishka&show_icons=true&count_private=true&hide_border=false&theme=dark" />
+</a>
+<a href="https://github.com/udaraKavishka/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaraKavishka&hide_border=false&layout=compact&theme=dark" />
+</a>
+
+
 ---
+
+
 
 <br/>  
 
@@ -65,7 +80,7 @@
 </div>  
   
 
-
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ycv94tqdgut7q6q3ul038gcvj&unique=true)](https://open.spotify.com/user/ycv94tqdgut7q6q3ul038gcvj)
 
 
 # Blog posts
