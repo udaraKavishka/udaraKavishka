@@ -66,27 +66,32 @@
   ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <br/>  
 
+
+
+
+
+---
+
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=qm94ns8y6aajy1vklxff2ebo7&unique={true|1|on|yes})
+---
+
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Unraveling the Influence: Exploring the Power and Pitfalls of Influencer Marketing in Sri Lanka’s Digital Sphere](https://medium.com/@udaraNalawansa/unraveling-the-influence-exploring-the-power-and-pitfalls-of-influencer-marketing-in-sri-lankas-1af262b0a5a2)
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=udaraKavishka&&style=flat-square" align="center" />
 </div>  
-  
-
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ycv94tqdgut7q6q3ul038gcvj&unique=true)](https://open.spotify.com/user/ycv94tqdgut7q6q3ul038gcvj)
-
-
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 
  
