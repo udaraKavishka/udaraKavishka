@@ -85,7 +85,7 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Unraveling the Influence: Exploring the Power and Pitfalls of Influencer Marketing in Sri Lanka’s Digital Sphere](https://medium.com/@udaraNalawansa/unraveling-the-influence-exploring-the-power-and-pitfalls-of-influencer-marketing-in-sri-lankas-1af262b0a5a2)
+- [Unraveling the Influence: Exploring the Power and Pitfalls of Influencer Marketing in Sri Lanka’s…](https://medium.com/@udaraNalawansa/unraveling-the-influence-exploring-the-power-and-pitfalls-of-influencer-marketing-in-sri-lankas-1af262b0a5a2?source=rss-aa4367e28881------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
