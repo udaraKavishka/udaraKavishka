@@ -179,10 +179,10 @@ I am an aspiring **Data Analyst** passionate about leveraging technology to extr
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
+<!--
 ### 🎭 Random Dev Meme  
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
+-->
 ---
 
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=qm94ns8y6aajy1vklxff2ebo7&unique={true|1|on|yes})
